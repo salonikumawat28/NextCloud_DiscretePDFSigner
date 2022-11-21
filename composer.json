@@ -1,0 +1,15 @@
+{
+    "name": "Discrete PDF Signer",
+    "description": "Discrete PDF signer app",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Saloni Kumawat"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
