@@ -6,7 +6,7 @@ DiscretePDFSigner app allows any NextCloud users to digitally sign their PDFs wi
 ## Setup
 For now, this app is not published on NextCloud app store. We will update the documentation when its done. 
 Untill then if you want to try it out, here are the steps :
-1. Clone NextCloud server: https://github.com/nextcloud/server (NextCloiud Tutorial https://docs.nextcloud.com/server/19/developer_manual/app/tutorial.html)
+1. Clone NextCloud server: https://github.com/nextcloud/server 
 2. Make a folder named as `discretepdfsigner` in `NextCloud/server/app`.
 3. Copy the content of this repository to the created `discretepdfsigner` folder.
 4. Start and setup the NextCloud server by following instructions https://docs.nextcloud.com/server/19/developer_manual/app/tutorial.html
