@@ -12,6 +12,6 @@
     <category>files</category>
     <bugs>http://www.google.com</bugs>
     <dependencies>
-        <nextcloud min-version="19" max-version="24"/>
+        <nextcloud min-version="19" max-version="25"/>
     </dependencies>
 </info>
