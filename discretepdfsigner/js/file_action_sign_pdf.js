@@ -69,7 +69,7 @@ function signPdfActionHandler(filename, context) {
 
 
 	// Create sign URL and open it in window.
-	const signUrl = 'https://www-dev.privasphere.com:8443/pdfjs-2_4_456-es5-dist/web/index.html';
+	const signUrl = 'https://www-dev.privasphere.com/pdfjs-2_4_456-es5-dist/web/index.html';
 	var signUrlFull = `${signUrl}#${uploadUrlHash}&${downloadUrlHash}&${externalSourceHash}`;
 	console.log("Opening sign URL:" + signUrlFull);
 	window.open(signUrlFull, '_blank');
