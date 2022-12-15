@@ -5,7 +5,7 @@
     <name>Discrete PDF Signer</name>
     <summary>App to sign PDFs via Privasphere</summary>
     <description><![CDATA[Enables ability to sign PDFs via Privasphere]]></description>
-    <version>0.0.2</version>
+    <version>0.0.4</version>
     <licence>agpl</licence>
     <author mail="kumawat@privasphere.com">Saloni Kumawat</author>
     <namespace>DiscretePdfSigner</namespace>
